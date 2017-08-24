@@ -88,6 +88,7 @@ The company may delegate the authority to control the personal information of us
 ## 6. Procedures and method for the disposal of personal information
 
 When the purpose of the collection or use of personal information has been achieved, the company will in principle destroy the applicable information immediately. The method and procedures for destroying personal information are as follows.
+
 (1) Destruction procedures
 - The information of a member input by the member at the time of signing up will be destroyed after the purpose of its collection or use has been achieved after being retained for a certain period of time according to the reason(s) for information protection pursuant to the company's internal policy or other related laws and regulations (refer to the periods of retention and/or use of personal information).
 - Personal information will not be used for purposes other than the intended purpose except in the cases specified in the laws and regulations.
