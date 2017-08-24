@@ -15,6 +15,7 @@ The table of contents of this privacy policy is as follows.
 11. Other
 12. Notification obligation
 
+
 1. Items of personal information to collect and the method thereof
 
 (1) Items of personal information to collect
