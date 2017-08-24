@@ -51,7 +51,7 @@ The table of contents of this privacy policy is as follows.
 3) To introduce new services as well as new product launch event information
 4) To provide other contents and authentication service (find my ID/Password, etc.)
 
-# 3. Sharing and provision of personal information
+## 3. Sharing and provision of personal information
 
 (1) Except for cases with the user's consent or provisions specified in the related laws and regulations, the company will never use the personal information of users beyond the scope of the intended use specified in the "Collection of personal information and intended purpose," or provide such information to other companies, organizations or institutions.
 (2) When sharing or providing the personal information of users, for example when the provision of users' personal information within a limited scope is necessary to provide various services to users through partnership with other service providers or business operators, users will be notified of who will receive or share users' personal information, what the main business is, what items in the personal information will be provided or shared, for what purposes users, personal information is to be provided or shared, etc. through a notice on the home page of the Ameba Platform website (http://www.amebaplatform.com), a notice in the application or through a message to users at least 10 days prior to the implementation to obtain consent from users.
@@ -143,7 +143,7 @@ If you want to consult with public authorities other than the company about priv
 (4) Although a user has rights to be protected for his or her personal information, he or she is obliged not only to protect his or her own personal information, but also to not infringe other's personal or privacy information. Please be careful not to expose your personal information including the password to others, and avoid damaging other users' personal information, including their posts. Failing to fulfill such responsibilities that cause damages to another user's personal information or reputation may lead to a penalty in accordance with related laws and regulations.
 (5) The responsibility for any disadvantage in the use of service(s) or property loss caused by the entry of inaccurate or false personal information shall lie with the user.
 
-11. Notification obligation
+## 11. Notification obligation
 Changes to the privacy policy corresponding to changes in the laws and regulations, policies and security technologies will be announced to users at least 10 days prior to such revision on our Ameba Plaform website (http://www.amebaplatform.com) along with the reason for revision and the revision details.
 
 Privacy policy announcement date: August 19, 2013
