@@ -1,4 +1,4 @@
-Daerisoft Co., Ltd. (hereinafter referred to as the company) takes the protection of its users�� privacy seriously and complies with the Act on Promotion of Information and Communications Network Utilization and Information Protection, Etc. This how your personal information is used under our privacy policy, and what measures are taken for privacy protection.
+Ameba Platform Inc. (hereinafter referred to as the company) takes the protection of its users�� privacy seriously and complies with the Act on Promotion of Information and Communications Network Utilization and Information Protection, Etc. This how your personal information is used under our privacy policy, and what measures are taken for privacy protection.
 
 The table of contents of this privacy policy is as follows.
 
