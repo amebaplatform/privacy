@@ -28,7 +28,6 @@ C. The following information may be generated and collected in the process of se
 - Access time, service use record, faulty use record, etc.
 D. When information is unavoidably required for the payment in the course of using free/paid service
 - Credit card information, wireless carrier information, purchase record and gift card number and/or other payment related information are collected
-
 E. When the user requests the restoration or refund of paid contents
 - Email address, purchase record and additional personal information such as the real name and family relations evidence to demonstrate that the purchase was made by a third party are collected.
 
