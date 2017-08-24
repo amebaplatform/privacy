@@ -17,19 +17,18 @@ The table of contents of this privacy policy is as follows.
 
 
 1. Items of personal information to collect and the method thereof
-
 (1) Items of personal information to collect
-A. The company collects the following personal information at the time of signing up or using the service to ensure seamless member registration, customer service and various services.
+■ The company collects the following personal information at the time of signing up or using the service to ensure seamless member registration, customer service and various services.
 - Required information: email address, mobile phone number
 - Optional information: date of birth, gender
-B. For services that lack separate consent procedures for the process in Paragraph 1 above, neither required information nor optional information is not collected.
-C. The following information may be generated and collected in the process of service use or business handling.
+■ For services that lack separate consent procedures for the process in Paragraph 1 above, neither required information nor optional information is not collected.
+■ The following information may be generated and collected in the process of service use or business handling.
 - Information of the user's mobile phone terminal (model name, OS version, mobile firmware version, device identification number, etc.), IP address, cookie, the latest access location
 - Records at the time of using location-based services
 - Access time, service use record, faulty use record, etc.
-D. When information is unavoidably required for the payment in the course of using free/paid service
+■ When information is unavoidably required for the payment in the course of using free/paid service
 - Credit card information, wireless carrier information, purchase record and gift card number and/or other payment related information are collected
-E. When the user requests the restoration or refund of paid contents
+■ When the user requests the restoration or refund of paid contents
 - Email address, purchase record and additional personal information such as the real name and family relations evidence to demonstrate that the purchase was made by a third party are collected.
 
 (2) Personal information collection method: The company collects the personal information of users through the following methods.
