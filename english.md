@@ -19,7 +19,7 @@ The table of contents of this privacy policy is as follows.
 1. Items of personal information to collect and the method thereof
 (1) Items of personal information to collect
 
- ■ The company collects the following personal information at the time of signing up or using the service to ensure seamless member registration, customer service and various services.
+    # The company collects the following personal information at the time of signing up or using the service to ensure seamless member registration, customer service and various services.
 - Required information: email address, mobile phone number
 - Optional information: date of birth, gender
 
