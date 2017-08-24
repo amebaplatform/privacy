@@ -1,4 +1,4 @@
-Ameba Platform Inc. (hereinafter referred to as the company) takes the protection of its users, privacy seriously and complies with the Act on Promotion of Information and Communications Network Utilization and Information Protection, Etc. This how your personal information is used under our privacy policy, and what measures are taken for privacy protection.
+# Ameba Platform Inc. (hereinafter referred to as the company) takes the protection of its users, privacy seriously and complies with the Act on Promotion of Information and Communications Network Utilization and Information Protection, Etc. This how your personal information is used under our privacy policy, and what measures are taken for privacy protection.
 
 The table of contents of this privacy policy is as follows.
 
@@ -19,7 +19,7 @@ The table of contents of this privacy policy is as follows.
 1. Items of personal information to collect and the method thereof
 (1) Items of personal information to collect
 
-    # The company collects the following personal information at the time of signing up or using the service to ensure seamless member registration, customer service and various services.
+<A> The company collects the following personal information at the time of signing up or using the service to ensure seamless member registration, customer service and various services.
 - Required information: email address, mobile phone number
 - Optional information: date of birth, gender
 
