@@ -16,7 +16,7 @@ The table of contents of this privacy policy is as follows.
 12. Notification obligation
 
 
-1. Items of personal information to collect and the method thereof
+# 1. Items of personal information to collect and the method thereof
 
 (1) Items of personal information to collect
 
@@ -43,7 +43,7 @@ The table of contents of this privacy policy is as follows.
 - Automatically through platforms in partnership with the company with regard to the provision of services
 - When provided by the users in a voluntary manner or in response to the company's request where necessary at the time of subscribing or using the service
 
-2. Collection of personal information and intended purpose
+# 2. Collection of personal information and intended purpose
 
 (1) The company uses the personal information of users collected for the following purposes.
 1) To secure communication channels to facilitate the delivery of notifications or the handling of customer complaints
@@ -51,7 +51,7 @@ The table of contents of this privacy policy is as follows.
 3) To introduce new services as well as new product launch event information
 4) To provide other contents and authentication service (find my ID/Password, etc.)
 
-3. Sharing and provision of personal information
+# 3. Sharing and provision of personal information
 
 (1) Except for cases with the user's consent or provisions specified in the related laws and regulations, the company will never use the personal information of users beyond the scope of the intended use specified in the "Collection of personal information and intended purpose," or provide such information to other companies, organizations or institutions.
 (2) When sharing or providing the personal information of users, for example when the provision of users' personal information within a limited scope is necessary to provide various services to users through partnership with other service providers or business operators, users will be notified of who will receive or share users' personal information, what the main business is, what items in the personal information will be provided or shared, for what purposes users, personal information is to be provided or shared, etc. through a notice on the home page of the Ameba Platform website (http://www.amebaplatform.com), a notice in the application or through a message to users at least 10 days prior to the implementation to obtain consent from users.
@@ -61,11 +61,11 @@ The table of contents of this privacy policy is as follows.
 3) When there has been a request from related authorities for investigation purposes in accordance with related laws and regulations
 4) When special provisions are specified in the Act on Real Name Financial Transactions and Confidentiality, the Use and Protection of Credit Information Act, the Electronic Communication Fundamental Law, the Telecommunications Business Act, the Local Tax Act, the Consumer Protection Act, the Bank of Korea Act and the Code of Criminal Procedures
 
-4. Delegation of authority to handle personal information
+# 4. Delegation of authority to handle personal information
 
 The company may delegate the authority to control the personal information of users to ensure the implementation of service(s). In case of delegation, the company specifies requirements to ensure the safe control of the personal information of users in accordance with the related laws and regulations.
 
-5. Retention and use period of personal information
+# 5. Retention and use period of personal information
 
 (1) In principle, the company retains a user's personal information from the member registration to the termination of membership. If the applicable user withdraws his or her membership or the intended purpose of the collection and use of personal information is achieved, the applicable personal information is disposed of immediately. However, the company will retain the user's personal information for 3 months from the date on which the membership of the applicable user is terminated according to the terms and conditions as well as internal policy to prevent the illegal use of such information. After the aforementioned period, the personal information of the user is completely deleted.
 (2) If the personal information of a user must be retained pursuant to the provision(s) of Commercial Act or other related laws even if the purpose of its collection has been achieved, or if there is a reason for retaining such personal information according to the company's internal policy or other related regulations, the company shall retain the personal information of the user for a certain period of time prescribed by related laws and regulations. In this case, the personal information retained will be used only for retention purposes, and the retention periods are as follows:
@@ -81,7 +81,7 @@ The company may delegate the authority to control the personal information of us
 (Reason for retention: Protection of Communications Secrets Act, Retention period: 3 months)
 (3) For personal information that is retained pursuant to Paragraph (2) above, if the subject of the applicable personal information requests the retrieval of his or her personal information, the company will provide an appropriate measure to enable such retrieval immediately.
 
-6. Procedures and method for the disposal of personal information
+# 6. Procedures and method for the disposal of personal information
 
 When the purpose of the collection or use of personal information has been achieved, the company will in principle destroy the applicable information immediately. The method and procedures for destroying personal information are as follows.
 (1) Destruction procedures
@@ -91,7 +91,7 @@ When the purpose of the collection or use of personal information has been achie
 - Personal information saved in an electronic file format is deleted using a technical method that disables the recovery of the record.
 - Personal information output on paper shall be shredded or incinerated.
 
-7. Rights of a user and his or her legal representative, and method of exercising the rights
+# 7. Rights of a user and his or her legal representative, and method of exercising the rights
 
 (1) The rights can be exercised when the request is received through the platform in partnership with the company related to the provision of services, or when the request is submitted directly via the company's website.
 (2) The user and his or her legal representative may retrieve or adjust his or her own personal information or that of an adolescent below the age of 14 years for which he or she is responsible, and may request the cancellation of the subscription at any time.
@@ -100,7 +100,7 @@ When the purpose of the collection or use of personal information has been achie
 (5) If the user requests the correction of errors in the personal information, the applicable personal information will not be used or provided until the correction is completed. In addition, when incorrect personal information has already been provided to a third party, corrected information will be delivered to the third party without delay.
 (6) The company handles personal information that has been closed or deleted in response to the request from the user or his or her legal representative in accordance with the provisions specified in the "Retention and use period of personal information," and disables the retrieval or use of information for other purposes.
 
-8. Protective measures for personal information in technical/administrative terms
+# 8. Protective measures for personal information in technical/administrative terms
 
 The company is developing the following technical/administrative measures to secure safety in order to prevent loss, theft, leakage, alteration or damage to personal information.
 
@@ -116,7 +116,7 @@ The company is operating a dedicated internal privacy protection organization in
 
 However, for problems originating from the leak of a user's personal information in the platform in partnership with the company for the provision of services, such as ID, password, nickname, email address, which is due to the user's negligence or a malfunction in the internet connection, the company will not be held responsible.
 
-9. Civil complaint service about personal information
+# 9. Civil complaint service about personal information
 
 If you have any questions about the personal information of a user or the privacy policy, please contact the following person in charge of the privacy policy. We will promptly answer your questions in a sincere manner.
 In addition, the company has a person and organization in charge of the privacy policy, as shown below.
@@ -135,7 +135,7 @@ If you want to consult with public authorities other than the company about priv
 - Advanced Criminalistics Department at Supreme Prosecutors' Office (http://www.spo.go.kr, contact: +82-2-3480-2000)
 - Cyber Terror Response Center at the National Police Agency (http://www.ctrc.go.kr, contact: +82-2-392-0330)
 
-10. Other
+## 10. Other
 
 (1) The company may provide the user with links to the websites of other companies or external data. In this case, as the company does not have any controlling authority over the external websites or data, the company cannot guarantee or take any responsibility for the usefulness of the service or data provided.
 (2) When the user navigates to the website of another company by clicking on a link in the service provided by the company, the privacy policy as well as terms and conditions of the applicable website are irrelevant to the company, so you should check the privacy policy of the applicable website.
